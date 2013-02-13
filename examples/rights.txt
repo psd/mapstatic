@@ -1,0 +1,3 @@
+title: Human rights
+url: https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=107894503346586532342.000495e21f9635d16c879&ll=7.236676,46.187004&spn=173.542261,21.796875&z=1
+kml: https://maps.google.com/maps/ms?hl=en&ie=UTF8&authuser=0&msa=0&output=kml&msid=216766492348966105526.000495e21f9635d16c879

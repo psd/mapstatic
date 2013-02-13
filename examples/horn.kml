@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Horn of Africa crisis</name>
+  <description><![CDATA[Map showing approximate areas affected by the drought in the Horn of Africa region, together with approximate areas where aid from the UK government is being targeted.]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>400000FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/movies.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/movies.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/movies.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Dolo Ado, Ethiopia</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://farm7.staticflickr.com/6027/5978139132_d04ab194f0_m.jpg"><br>UKaid has reached over 100,000 refugees in the Dolo Ado camps on the Ethiopian border with Somalia, providing shelter, clean water, healthcare and other essential items.</div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://www.dfid.gov.uk/stories/eyewitness-reports/2011/eyewitness-cate-turton-reports-from-ethiopia/" target="_blank">Eyewitness: read DFID advisor Cate's report from Dolo Ado</a>&nbsp;</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>42.055664,4.357366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emergency and crisis affected areas</name>
+    <description><![CDATA[<div dir="ltr">Food security remains at emergency levels across wide parts of Ethiopia, Kenya and Somalia, due to extreme drought conditions.<br><br>Humanitarian aid funding from the British government is supporting a range of UN and NGO aid agencies to reach over 2.3 million people at risk of starvation.</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            44.604488,10.444590,0.000000
+            44.934078,10.412180,0.000000
+            45.241692,10.595820,0.000000
+            45.856930,10.887250,0.000000
+            45.999748,10.779340,0.000000
+            46.219479,10.768550,0.000000
+            46.538078,10.703790,0.000000
+            46.933590,10.919610,0.000000
+            47.219231,11.102940,0.000000
+            47.504879,11.178400,0.000000
+            47.719109,11.092160,0.000000
+            47.796021,11.119110,0.000000
+            47.966301,11.113720,0.000000
+            48.142090,11.135280,0.000000
+            48.394772,11.275380,0.000000
+            48.779289,11.318480,0.000000
+            48.966061,11.253830,0.000000
+            49.350578,11.340020,0.000000
+            49.559319,11.447720,0.000000
+            49.932861,11.480020,0.000000
+            50.262451,11.609190,0.000000
+            50.471191,11.749050,0.000000
+            50.679932,12.007080,0.000000
+            50.833740,11.953340,0.000000
+            50.965569,11.888850,0.000000
+            51.284180,11.824340,0.000000
+            50.943604,11.178402,0.000000
+            51.141350,11.113720,0.000000
+            51.119381,10.703790,0.000000
+            51.157829,10.585020,0.000000
+            51.086418,10.477000,0.000000
+            51.201778,10.444590,0.000000
+            51.207272,10.520210,0.000000
+            51.355591,10.477000,0.000000
+            51.388550,10.471600,0.000000
+            51.410519,10.422980,0.000000
+            51.361080,10.368950,0.000000
+            51.273190,10.368950,0.000000
+            51.245720,10.417580,0.000000
+            51.097408,10.422980,0.000000
+            50.905151,10.325720,0.000000
+            50.899651,10.131110,0.000000
+            50.894161,9.995900,0.000000
+            50.817261,9.665730,0.000000
+            50.800781,9.546580,0.000000
+            50.850220,9.443640,0.000000
+            50.734859,9.291880,0.000000
+            50.663448,9.210560,0.000000
+            50.641472,9.096670,0.000000
+            50.614010,9.031570,0.000000
+            50.520630,8.961040,0.000000
+            50.427238,8.857930,0.000000
+            50.377800,8.700490,0.000000
+            50.311890,8.602740,0.000000
+            50.317379,8.542990,0.000000
+            50.202019,8.385430,0.000000
+            50.125118,8.189740,0.000000
+            49.921871,8.048350,0.000000
+            49.806511,7.879700,0.000000
+            49.822990,7.765420,0.000000
+            49.757080,7.623880,0.000000
+            49.625240,7.384250,0.000000
+            49.460442,7.144490,0.000000
+            49.268181,6.844620,0.000000
+            49.097900,6.500890,0.000000
+            49.070431,6.277070,0.000000
+            48.999020,6.096860,0.000000
+            48.905640,5.905650,0.000000
+            48.773800,5.708910,0.000000
+            48.416740,5.178480,0.000000
+            48.235470,4.943190,0.000000
+            48.059689,4.636650,0.000000
+            47.856441,4.346410,0.000000
+            47.021481,3.425690,0.000000
+            46.636959,3.030810,0.000000
+            46.230461,2.663220,0.000000
+            45.922852,2.355900,0.000000
+            45.549309,2.130850,0.000000
+            44.703362,1.702630,0.000000
+            43.895870,0.994210,0.000000
+            43.346550,0.516350,0.000000
+            43.093868,0.219720,0.000000
+            42.824699,-0.060420,0.000000
+            42.539059,-0.329580,0.000000
+            42.423698,-0.494370,0.000000
+            42.286369,-0.659160,0.000000
+            42.187500,-0.796480,0.000000
+            42.061150,-0.928300,0.000000
+            41.956779,-1.054620,0.000000
+            41.846920,-1.230370,0.000000
+            41.698601,-1.466510,0.000000
+            41.528320,-1.691640,0.000000
+            41.297600,-1.993610,0.000000
+            41.193230,-1.927730,0.000000
+            41.033932,-2.048510,0.000000
+            40.968010,-2.075960,0.000000
+            40.902100,-2.015570,0.000000
+            40.913078,-2.130850,0.000000
+            40.649410,-2.064980,0.000000
+            40.198971,-1.878320,0.000000
+            40.067131,-1.395120,0.000000
+            39.995720,-1.060120,0.000000
+            39.924309,-0.889850,0.000000
+            39.869381,-0.664650,0.000000
+            39.638672,-0.461420,0.000000
+            39.616692,-0.324090,0.000000
+            39.435421,-0.148310,0.000000
+            39.325562,-0.082390,0.000000
+            39.199211,-0.043940,0.000000
+            38.408199,0.131830,0.000000
+            38.012691,0.966750,0.000000
+            37.045891,1.669680,0.000000
+            35.903320,1.757530,0.000000
+            35.068352,1.581830,0.000000
+            34.936520,2.284550,0.000000
+            34.958488,2.471150,0.000000
+            34.848629,2.580910,0.000000
+            34.716789,2.855260,0.000000
+            34.617920,2.921090,0.000000
+            34.508049,3.162450,0.000000
+            34.409180,3.436650,0.000000
+            34.420158,3.677890,0.000000
+            34.189449,3.864250,0.000000
+            34.024651,4.203980,0.000000
+            34.145500,4.477850,0.000000
+            34.442131,4.598320,0.000000
+            34.716789,4.751620,0.000000
+            35.156250,4.915830,0.000000
+            35.639641,5.090940,0.000000
+            35.079342,5.812750,0.000000
+            34.947510,6.238850,0.000000
+            35.013420,6.446310,0.000000
+            34.617920,6.795530,0.000000
+            34.277340,7.024570,0.000000
+            34.497070,7.144490,0.000000
+            35.375969,7.798070,0.000000
+            36.035149,8.015710,0.000000
+            36.694328,7.536760,0.000000
+            37.441399,7.830730,0.000000
+            37.661129,8.276720,0.000000
+            38.364250,8.754790,0.000000
+            38.781731,9.047850,0.000000
+            39.276119,9.232240,0.000000
+            39.858391,9.665730,0.000000
+            40.111080,10.055400,0.000000
+            40.166012,10.531020,0.000000
+            40.122070,11.307700,0.000000
+            39.814449,11.996330,0.000000
+            39.243160,12.597450,0.000000
+            38.803711,13.197160,0.000000
+            38.232422,13.752720,0.000000
+            38.221432,13.966050,0.000000
+            38.364250,14.647360,0.000000
+            38.518059,14.370830,0.000000
+            38.913570,14.498500,0.000000
+            39.089352,14.615470,0.000000
+            39.287102,14.519780,0.000000
+            39.649651,14.572950,0.000000
+            39.957272,14.413400,0.000000
+            40.067131,14.530410,0.000000
+            40.187981,14.402750,0.000000
+            40.341789,14.392110,0.000000
+            40.869141,14.115260,0.000000
+            41.055901,13.912740,0.000000
+            41.187740,13.645980,0.000000
+            41.572262,13.389620,0.000000
+            41.770020,13.186460,0.000000
+            41.945801,12.951020,0.000000
+            42.187500,12.726080,0.000000
+            42.352291,12.533110,0.000000
+            42.341301,12.372190,0.000000
+            41.835930,11.695270,0.000000
+            41.791988,11.318480,0.000000
+            41.704102,11.167620,0.000000
+            42.022701,10.930400,0.000000
+            42.187500,10.973550,0.000000
+            42.396240,10.995120,0.000000
+            42.670891,10.919610,0.000000
+            43.417961,10.314910,0.000000
+            43.989250,10.271680,0.000000
+            44.604488,10.444590,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Dadaab Refugee Camp, Kenya</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://farm9.staticflickr.com/8424/7536269248_dcaa63846b.jpg" style="width:244px"></div>In the Dadaab refugee camp on the Kenya/Somalia border, which currently houses 472,000 Somali refugees, 19,500 malnourished children and pregnant or breastfeeding mothers have been fed, 95,000 children under five and 14,000 pregnant or breastfeeding mothers received supplementary feeding, 101,000 people have been given access to clean water and 170,000 people have been able to access basic healthcare. 3,500 families have also been given shelter and other non food supplies.&nbsp;<a href="http://www.dfid.gov.uk/Media-Room/Press-releases/2011/Mitchell-to-announce-help-for-1-million-drought-/" style="font-size:10pt" target="_blank">Find out more</a><div><br>Partners we're working with here: Oxfam, Care, UNHCR, WFP</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>40.313644,0.106430,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Somalia</name>
+    <description><![CDATA[<div><img src="http://farm8.staticflickr.com/7051/6920810711_4ed966deb5_n.jpg" style="width:244px"></div><p>In Somalia, 300,000 people have been supplied with 1.5 million food rations, 20,000 starving children have been treated, 1.3 million children have been vaccinated against measles, 1.3 million people have been reached with safe water, 400,000 people have benefited from seeds and fertiliser, and 2 million livestock have benefited from health interventions.</p><p>
+
+The UK announced a new three-year package of aid to Somali refugees on 23 February 2012, as well as the creation of a new Stability Fund for Somalia. <a href="http://www.dfid.gov.uk/News/Latest-news/2012/somalia-new-aid-for- refugees-who-fled-famine-and-fighting/" target="_blank">Find out more</a></p>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>42.341309,1.296276,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Northern Kenya</name>
+    <description><![CDATA[<iframe src="http://www.youtube.com/embed/qysydprvrI4" width="350" height="197" frameborder="0"></iframe>
+<p><span style="font-size:10pt">UK aid is supporting UNICEF, WFP and Save the Children to provide nutrition and food security to approximately 200,000 people in the Turkana region of northern Kenya.</span></p><p><span style="font-size:10pt">Across Kenya, 500,000 children under five and breastfeeding mothers received
+supplementary food, 113,500 malnourished children and pregnant and
+breastfeeding women received urgent vitamin supplements, 161,000 people were
+provided with clean drinking water and hygiene kits and 109,000 people were
+given access to healthcare through additional facilities.</span></p>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>36.727295,3.370856,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ethiopia - overview</name>
+    <description><![CDATA[<iframe src="http://www.youtube.com/embed/RDOgIx5FTXk" width="330" height="186" frameborder="0"></iframe>
+<p>In Ethiopia,&nbsp;<span style="font-size:10pt">through the World Food Programme, UNHCR, and NGO partners including CARE International, Oxfam, Save the Children, HelpAge and CAFOD, UK aid has helped</span><span style="font-size:10pt">&nbsp;2.4 million people receive emergency food and 145,000&nbsp;</span><span style="font-size:10pt">malnourished children and mothers have been fed, and 910,000 people are&nbsp;</span><span style="font-size:10pt">receiving vital vaccinations against potentially fatal diseases such as meningitis.</span></p>
+<p>Seeds and cuttings are being distributed to 829,332 drought-affected farmers&nbsp;<span style="font-size:10pt">to restart their food production. The UK has also assisted 1.1 million chronically&nbsp;</span><span style="font-size:10pt">food insecure people under the national safety net, protecting them from the&nbsp;</span><span style="font-size:10pt">impact of drought.</span></p><p><a href="http://www.dfid.gov.uk/Media-Room/Press-releases/2011/British-aid-battles-starvation-in-Africa/" style="font-size:10pt" target="_blank">Find out more</a></p>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>41.132812,7.710992,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mogadishu/Wajid, Somalia</name>
+    <description><![CDATA[<div dir="ltr"><iframe src="http://www.youtube.com/embed/uasNcmQb4GM" width="330" height="186" frameborder="0"></iframe><br>With UK support in Somalia, 300,000 people have been supplied with 1.5 million food rations, 20,000 starving children have been treated, and 1.5 million children vaccinated against measles.&nbsp;</div><div dir="ltr"><br><span style="font-size:10pt">The UK also announced a new three-year package of aid to Somali refugees on 23 February 2012, as well as the creation of a new Stability Fund for Somalia.&nbsp;</span><a href="http://www.dfid.gov.uk/News/Latest-news/2012/somalia-new-aid-for-%20refugees-who-fled-famine-and-fighting/" style="font-size:10pt" target="_blank">Find out more</a></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>45.812988,2.591889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>News: World must address failure in Somalia</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.dfid.gov.uk/Images/250x190/sos_dolo_somalia_arthuredwa.jpg" style="font-size:10pt;width:244px"></div><div dir="ltr">30 January 2012: More must be done to tackle the underlying causes of instability in Somalia if years of devastating decline are to be reversed, Andrew Mitchell warned today on a visit to two separate parts of the country, Gedo and Puntland.<br><br>During his visit to Puntland Mr Mitchell announced new British support for health services, which will benefit over 100,000 women and children, and for weapons management that will see more weapons taken off the streets by enabling police stations to store them securely.</div><div dir="ltr"><br>&nbsp;</div><div dir="ltr"><a href="http://www.dfid.gov.uk/News/Latest-news/2012/World-must-address-failure-in-Somalia/" target="_blank">Read more</a></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>49.691135,8.979355,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Helping malnourished children in Ethiopia</name>
+    <description><![CDATA[<a href="http://www.dfid.gov.uk/Stories/Eyewitness-Reports/2011/Eyewitness-Matthew-Benson-in-Ethiopia/" target="_blank">Eyewitness: helping malnourished children in Ethiopia</a><div><br>&nbsp;</div><div><img src="http://www.dfid.gov.uk/Images/468x332/2/Eyewitness_MB_468.jpg" style="width:244px"></div><div><br>&nbsp;</div><div>Read DFID's deputy humanitarian programme manager report from a field mission in Ethiopia.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>44.099121,5.266008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Human rights</name>
+  <description><![CDATA[]]></description>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Foreign &amp; Commonwealth Office</name>
+    <description><![CDATA[<a href="http://www.fco.gov.uk/en/global-issues/human-rights/" target="_blank">Our work on Human Rights</a><br>Follow on twitter: <a href="http://twitter.com/fcohumanrights" target="_blank">@FCOHumanRights</a><br><a href="https://secure.fco.gov.uk/en/secure/subscribe?action=subscribe" target="_blank">Subscribe for updates</a><br><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=365672682" target="_blank">International Human Rights Day: Foreign Office Minister Jeremy Browne</a> <br>
+<h1><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a></h1><br>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-0.127816,51.502293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Uzbekistan</name>
+    <description><![CDATA[<div><a href="http://ukinuzbekistan.fco.gov.uk/en/about-us/working-with-uzbekistan/human-rights-in-uzbekistan/" target="_blank">Human rights in Uzbekistan</a></div>
+<div><a href="http://ukinuzbekistan.fco.gov.uk/en/about-us/working-with-uzbekistan/projects/" target="_blank">British Embassy-funded projects</a></div><div><br><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/uzbekistan/" target="_blank">Human Rights and Democracy Report: countries of concern - Uzbekistan</a></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>69.144287,41.282761,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Afghanistan</name>
+    <description><![CDATA[<div><a href="http://ukinafghanistan.fco.gov.uk/en/about-us/working-with-afghanistan/Human-Rights-Afg/" target="_blank">Human Rights in Afghanistan</a></div>
+<div><a href="http://ukinafghanistan.fco.gov.uk/en/news/?view=News&amp;id=562352282" target="_blank">FCO Minister meets Afghan women's delegation</a></div>
+<div>Read Michael O Neill's blog from Helmand on <a href="http://blogs.fco.gov.uk/roller/neill/entry/human_rights_and_the_women" target="_blank">Human Rights and the Women of Gereshk</a> </div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/afghanistan/" target="_blank">Human Rights and Democracy Report: countries of concern - Afghanistan<br>&nbsp;</a></div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>69.067383,34.546383,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Cuba</name>
+    <description><![CDATA[<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=574657582" target="_blank">FCO Minister Jeremy Browne welcomes release of political prisoners </a></div>
+<div>British Embassy celebrates <a href="http://ukincuba.fco.gov.uk/en/news/?view=News&amp;id=574527782" target="_blank">International Women's Day</a></div>
+<div><a href="http://ukincuba.fco.gov.uk/en/about-us/working-with-cuba/human-rights-cuba/" target="_blank">Human rights in Cuba</a><br><a href="http://ukincuba.fco.gov.uk/en/about-us/working-with-cuba/human-rights-cuba/hr-latest-developments/" target="_blank">Latest news and developments</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/cuba/" target="_blank">Human Rights and Democracy Report: countries of concern - Cuba<br></a></div><div>&nbsp;</div>
+<div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-82.401123,23.126217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Republic of Korea</name>
+    <description><![CDATA[<div><a href="http://ukinrok.fco.gov.uk/en/about-us/working-with-korea/human-rights/" target="_blank">Human rights in the Republic of Korea - English</a><br><a href="http://ukinrok.fco.gov.uk/ko/about-us/working-with-korea/human-rights/" target="_blank">Human rights in the Republic of Korea - Korean</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinrok.fco.gov.uk/en/news/?view=PressR&amp;id=397152682" target="_blank">Marking International Human Rights Day in the Republic of Korea</a></div>
+<div>&nbsp;</div>
+<div>Read our Guest Blog: <a href="http://blogs.fco.gov.uk/martinuden/2010/12/10/guest-blog-leaving-north-korea/" target="_blank">The Journey from North to South</a></div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>126.954346,37.584637,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Hong Kong</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinhongkong.fco.gov.uk/en/about-us/working-with-hong-kong/human-rights/" target="_blank">Human rights in Hong Kong</a></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><a href="http://ukinhongkong.fco.gov.uk/en/about-us/working-with-hong-kong/britains-commitment/six-monthly-reports" target="_blank">Six monthly reports on Hong Kong</a></div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;<a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>114.164993,22.276096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Uganda</name>
+    <description><![CDATA[<div><a href="http://ukinuganda.fco.gov.uk/en/about-us/working-with-uganda/human-rights/" target="_blank">Human rights in Uganda</a></div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>32.584419,0.335596,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Sri Lanka</name>
+    <description><![CDATA[<div><a href="http://ukinsrilanka.fco.gov.uk/en/about-us/working-with-sri-lanka/human-rights/" target="_blank">Human rights in Sri Lanka</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinsrilanka.fco.gov.uk/en/news/?view=PressR&amp;id=569510282" target="_blank">International Day for the Elimination of Racial Discrimination - statement by High Commissioner</a></div>
+<div><br><a href="http://ukinsrilanka.fco.gov.uk/en/news/?view=PressR&amp;id=141920682" target="_blank">UK contributes to project to aid youth in conflict affected areas of Sri Lanka</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/sri-lanka/" target="_blank">Human Rights and Democracy Report: countries of concern - Sri Lanka<br>&nbsp;</a></div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>79.872665,6.905977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK Mission to the United Nations, New York</name>
+    <description><![CDATA[<a href="http://ukun.fco.gov.uk/en/uk-at-un/thematic-issues/DevelopmentandHumanRights/human-rights" target="_blank">Human rights at UK Mission to the UN</a><br>Follow on twitter: <a href="http://twitter.com/UKUN_NewYork" target="_blank">@UKUN_NewYork</a><br>Blog: <a href="http://blogs.fco.gov.uk/roller/meiklejohn/entry/human_rights_day_at_the" target="_blank">Human Rights Day at the United Nations</a><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-73.974724,40.753239,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK Mission to the United Nations in Geneva</name>
+    <description><![CDATA[<div><a href="http://ukungeneva.fco.gov.uk/en/about-us/our-work/human-rights" target="_blank">Human rights work of the UK Mission to the UN in Geneva</a><br><a href="http://blogs.fco.gov.uk/roller/last/entry/putting_the_universal_back_in" target="_blank">Putting the “Universal” Back in the Universal Declaration - Guest blog by John Fisher, ARC International</a><br><a href="http://blogs.fco.gov.uk/roller/last" target="_blank">Human Rights Desk Officer Bob Last - read his blog</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>6.109471,46.223850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Burma</name>
+    <description><![CDATA[<div style="font-family:arial;font-size:10pt"><a href="http://www.fco.gov.uk/en/global-issues/human-rights/burma-campaign/" target="_blank">Human rights in Burma</a></div><div><font size="2" face="arial">Foreign Office Minister Jeremy Browne <a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=726625282" target="_blank">met with Burmese Ambassador to the UK</a></font></div>
+<div style="font-family:arial;font-size:10pt"><a href="http://www.fco.gov.uk/en/global-issues/human-rights/international-framework/" target="_blank">Working with the international framework</a></div>
+<div style="font-family:arial;font-size:10pt">Foreign Office news on Burma on <a href="http://www.facebook.com/fcoburma" target="_blank">Facebook</a></div><div style="font-family:arial;font-size:10pt">&nbsp;</div><div style="font-family:arial;font-size:10pt"><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/burma/" target="_blank">Human Rights and Democracy Report: countries of concern - Burma<br></a></div><div style="font-family:arial;font-size:10pt"><br>Follow on twitter: <a href="http://twitter.com/ukinburma" target="_blank">@ukinburma</a><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>96.163506,16.769453,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in China</name>
+    <description><![CDATA[<div><a href="http://ukinchina.fco.gov.uk/en/about-us/working-with-china/HumanRights/" target="_blank">Human rights in China</a><br><a href="http://ukinchina.fco.gov.uk/en/news/?view=News&amp;id=574213082" target="_blank">UK-China media workshop</a></div>
+<div><a href="http://ukinchina.fco.gov.uk/en/news/?view=PressR&amp;id=562504282" target="_blank">International Women's Day<br></a>Follow on twitter: <a href="http://twitter.com/ukinchina" target="_blank">@ukinchina</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/china/" target="_blank">Human Rights and Democracy Report: countries of concern -&nbsp; China</a><br>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>116.448486,39.913822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Colombia</name>
+    <description><![CDATA[<div><a href="http://ukincolombia.fco.gov.uk/en/news/?view=News&amp;id=572039582" target="_blank">International cooperation strengths forced disappearance investigations </a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukincolombia.fco.gov.uk/es/working-with-colombia/diamujer/" target="_blank">International Women's Day 2011 : read the Embassy's guest bloggers (in Spanish)</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/colombia/" target="_blank">Human Rights and Democracy Report: countries of concern - Colombia<br>&nbsp;</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukincolombia.fco.gov.uk/en/about-us/working-with/human-rights/" target="_blank">Human rights in Colombia</a><br><a href="http://ukincolombia.fco.gov.uk/en/about-us/working-with/human-rights/freedom-expression" target="_blank">Freedom of Expression &amp; Media</a><br><a href="http://ukincolombia.fco.gov.uk/en/about-us/working-with/human-rights/promotion-proteccion" target="_blank">Promotion and protection of civil society</a></div>
+<div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-74.032661,4.712918,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Iran</name>
+    <description><![CDATA[<div><a href="http://ukiniran.fco.gov.uk/en/about-us/working-with-iran/human-rights-iran/" target="_blank">Human rights in Iran</a></div>
+<div>&nbsp;</div>
+<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=572407082" target="_blank">Human Rights Council agrees to Special Rapporteur for Iran</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukiniran.fco.gov.uk/en/news/?view=News&amp;id=569851482" target="_blank">Foreign Secretary welcomes EU sanctions</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/iran/" target="_blank">Human Rights and Democracy Report: countries of concern - Iran<br></a></div>
+<div>&nbsp;</div>
+<div>Read a <a href="http://ukiniran.fco.gov.uk/en/news/?view=News&amp;id=545063382" target="_blank">blog from Simon Gass</a>&nbsp;marking International Human Rights Day 2010</div>
+<div>&nbsp;</div>
+<div>Follow Ambassador to Iran Simon Gass on Twitter: <a href="http://twitter.com/sgassiran" target="_blank">@sgassIran</a><br>&nbsp;</div>
+<div>Follow British Embassy in Iran on twitter: <a href="http://twitter.com/ukiniran" target="_blank">@ukiniran </a><br>&nbsp;</div>
+<div>UK in Iran on <a href="http://www.facebook.com/UKinIran" target="_blank">Facebook</a><br>&nbsp;</div>
+<div><a href="http://ukiniran.fco.gov.uk/en/news/?view=News&amp;id=353526682" target="_blank">UN resolution on Iran's human rights record; concerns and calls on action </a></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>51.418419,35.696617,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Iraq</name>
+    <description><![CDATA[<div><a href="http://ukiniraq.fco.gov.uk/en/about-us/working-with-iraq/HR-Iraq/" target="_blank">Human rights in Iraq</a></div>
+<div><a href="http://ukiniraq.fco.gov.uk/en/about-us/working-with-iraq/HR-Iraq/womens-rights" target="_blank">Women's rights</a></div>
+<div><a href="http://ukiniraq.fco.gov.uk/en/about-us/working-with-iraq/Projects/" target="_blank">British Embassy-funded projects</a></div>
+<div>Ambassador John Jenkins blogs: <a href="http://blogs.fco.gov.uk/roller/jenkins/entry/speaking_up_on_human_rights" target="_blank">Speaking up on Human rights</a></div><div><br>&nbsp;<a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/iraq/" target="_blank">Human Rights and Democracy Report: countries of concern - Iraq<br></a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>44.388885,33.313030,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Pakistan</name>
+    <description><![CDATA[<div><a href="http://ukinpakistan.fco.gov.uk/en/about-us/working-with-pakistan/human-rights-in-pakistan/" target="_blank">Human rights in Pakistan</a><br><a href="http://blogs.fco.gov.uk/roller/thomson/entry/remembering_shahbaz_bhatti" target="_blank">High Commissioner Adam Thomson's blog</a></div>
+<div><a href="http://ukinpakistan.fco.gov.uk/en/about-us/working-with-pakistan/human-rights-in-pakistan/women-day/" target="_blank">International Women's Day</a></div>
+<div><a href="http://ukinpakistan.fco.gov.uk/en/about-us/working-with-pakistan/human-rights-in-pakistan/Child-abduction" target="_blank">Protecting the children of the UK and Pakistan</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/pakistan/" target="_blank">Human Rights and Democracy Report: countries of concern - Pakiston<br></a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>72.773438,33.137550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Russia</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinrussia.fco.gov.uk/en/about-us/working-with-russia/020-human-rights/" target="_blank">Human rights in Russia</a></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><a href="http://ukinrussia.fco.gov.uk/en/news/?view=News&amp;id=560777682" target="_blank">Women's rights in Russia</a></div><div dir="ltr">&nbsp;</div>
+<div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/russia/" target="_blank">Human Rights and Democracy Report: countries of concern - Russia</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><br><a href="http://ukinrussia.fco.gov.uk/en/about-us/working-with-russia/020-human-rights/040-Working-with-Russia" target="_blank">Working with Russia on human rights</a></div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>37.576759,55.750351,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Saudi Arabia</name>
+    <description><![CDATA[<div><a href="http://ukinsaudiarabia.fco.gov.uk/en/about-us/working-with-saudi-arabia/030-Human_rights/" target="_blank">Human rights in Saudi Arabia</a></div>
+<div><a href="http://ukinsaudiarabia.fco.gov.uk/en/about-us/working-with-saudi-arabia/Arab_Partnership/" target="_blank">Arab Partnership</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/saudi-arabia/" target="_blank">Human Rights and Democracy Report: countries of concern - Saudi Arabia<br></a>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>46.767849,24.622141,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Sudan</name>
+    <description><![CDATA[<div>A turning point for Africa? <a href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;id=572761482" target="_blank">Foreign Secretary speaks</a> at The Times CEO Summit Africa</div>
+<div>&nbsp;</div>
+<div><a href="http://ukinsudan.fco.gov.uk/en/about-us/working-with-sudan/humanrights/" target="_blank">Human rights in Sudan</a></div>
+<div>&nbsp;</div>
+<div>Sudanese-born BBC World News presenter talks about freedom of expression in the UK - <a href="http://www.fco.gov.uk/en/global-issues/london-2012/see-britain/zeinab-badawi" target="_blank">watch the video</a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/sudan/" target="_blank">Human Rights and Democracy Report: countries of concern -&nbsp;Sudan<br></a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>32.525024,15.596584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Ukraine</name>
+    <description><![CDATA[<div><a href="http://ukinukraine.fco.gov.uk/en/about-us/working-with-ukraine/human-rights-in-ukraine/" target="_blank">Human rights in Ukraine</a><br>&nbsp;</div>
+<div><a href="http://ukinukraine.fco.gov.uk/en/about-us/working-with-ukraine/human-rights-in-ukraine/project-work/" target="_blank">Information on projects to support human rights in Ukraine</a><br>&nbsp;</div>
+<div><a href="http://ukinukraine.fco.gov.uk/en/about-us/working-with-ukraine/human-rights-in-ukraine/diversity-campaigning/" target="_blank">Diversity campaigning</a><br>&nbsp;</div>
+<div><a href="http://blogs.fco.gov.uk/roller/turnerenglish" target="_blank">Read Ambassador Leigh Turner's blog</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a>&nbsp;</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>30.519848,50.457230,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in New Zealand</name>
+    <description><![CDATA[<div><a href="http://ukinnewzealand.fco.gov.uk/en/about-us/working-with-new-zealand/human-rights/" target="_blank">Human rights in New Zealand</a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>174.775131,-41.277000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Thailand</name>
+    <description><![CDATA[<div><a href="http://ukinthailand.fco.gov.uk/en/about-us/working-with-thailand/human-rights/" target="_blank">Human rights in Thailand</a><br><a href="http://ukinthailand.fco.gov.uk/en/about-us/working-with-thailand/human-rights/freedom-of-expression" target="_blank">Supporting freedom of expression</a><br><a href="http://ukinthailand.fco.gov.uk/en/about-us/working-with-thailand/human-rights/case-study" target="_blank">Case study on Intellectual Property </a><br><a href="http://ukinthailand.fco.gov.uk/en/news/?view=PressR&amp;id=259664682" target="_blank">Freedom of expression and the internet</a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>100.546700,13.744971,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Qatar</name>
+    <description><![CDATA[<div><a href="http://ukinqatar.fco.gov.uk/en/about-us/working-with-qatar/human-rights/" target="_blank">Human rights in Qatar</a><br><a href="http://ukinqatar.fco.gov.uk/en/news/?view=News&amp;id=23145133" target="_blank">British Ambassador welcomes cooperation with Qatar on human rights </a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>51.516136,25.342096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Turkey</name>
+    <description><![CDATA[<div><a href="http://ukinturkey.fco.gov.uk/en/about-us/working-with-turkey/human-rights-turkey/" target="_blank">Human rights in Turkey</a></div>
+<div><a href="http://ukinturkey.fco.gov.uk/en/news/?view=News&amp;id=561812782" target="_blank">International Women's Day - British Consul General's article</a> </div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a>&nbsp;</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>32.860107,39.928696,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Jerusalem</name>
+    <description><![CDATA[<div><a href="http://ukinjerusalem.fco.gov.uk/en/about-us/working-with-jerusalem/Rights/" target="_blank">Our work on human rights</a></div>
+<div><a href="http://ukinjerusalem.fco.gov.uk/en/about-us/working-with-jerusalem/projects/current-projects" target="_blank">FCO-funded projects<br></a></div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>38.144531,28.459032,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Bahrain</name>
+    <description><![CDATA[<A href="http://ukinbahrain.fco.gov.uk/en/about-us/working-with-bahrain/Human-Rights/" target="_blank">Human rights in Bahrain</A><BR>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>50.583115,26.237343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Romania</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinromania.fco.gov.uk/en/about-us/working-with-romania/human-rights-romania/" target="_blank">Human rights in Romania</a></div>
+<div dir="ltr">Celebrating diversity - <a href="http://ukinromania.fco.gov.uk/en/about-us/working-with-romania/human-rights-romania/040-diversity" target="_blank">read about our project</a><br>Our guest blogger writes about <a href="http://blogs.fco.gov.uk/roller/bragarea/entry/guest_blogger_about_human_rights" target="_blank">human rights for young patients</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a></div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>26.100769,44.444077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Namibia</name>
+    <description><![CDATA[<div><a href="http://ukinnamibia.fco.gov.uk/en/about-us/working-with-namibia/human-rights-Nam/" target="_blank">Human rights&nbsp;in Namibia</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>17.086401,-22.561153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Chile</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinchile.fco.gov.uk/en/about-us/working-with-chile/human-rights/" target="_blank">Human Rights in Chile</a></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><a href="http://blogs.fco.gov.uk/roller/PabloRetamal/entry/iwd_more_than_chocolates_lunch#" target="_blank">International Women's Day blog</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.600533,-33.415638,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Nigeria</name>
+    <description><![CDATA[<a href="http://ukinnigeria.fco.gov.uk/en/news/?view=Speech&amp;id=364084682" target="_blank">"Acting to defend Human Rights" - a speech by our High Commissioner in Nigeria, Bob Dewar </a><br><a href="http://blogs.fco.gov.uk/roller/cheveningconversations/entry/human_rights_day_2010_a1" target="_blank">Human Rights Day 2010 - a view from Nigeria</a><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>7.480456,9.092859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Japan</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinjapan.fco.gov.uk/en/about-us/working-with-japan/human-rights/" target="_blank">Human Rights in Japan</a><br><a href="http://blogs.fco.gov.uk/roller/warren/entry/human_rights_in_japan" target="_blank">Our Ambassador in Japan David Warren blogs on Human Rights</a><br><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>139.744049,35.686382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Syria</name>
+    <description><![CDATA[<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=572812382" target="_blank">FCO Minister Alistair Burt expresses concern at violence in Syria</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinsyria.fco.gov.uk/en/about-us/working-with-syria/human-rights-in-syria/" target="_blank">Human Rights in Syria</a></div>
+<div>- <a href="http://ukinsyria.fco.gov.uk/en/about-us/working-with-syria/human-rights-in-syria/counseling-phone" target="_blank">Hotline</a> strengthens the legal protection for Palestine refugee women </div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/syria/" target="_blank">Human Rights and Democracy Report: countries of concern - Syria<br></a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>38.847656,31.952162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Turkmenistan</name>
+    <description><![CDATA[<div><a href="http://ukinturkmenistan.fco.gov.uk/en/about-us/working-with-turkmenistan/human-rights-in-turkmenistan/" target="_blank">Human Rights in Turkmenistan</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/turkmenistan/" target="_blank">Human Rights and Democracy Report: countries of concern - Tukmeniistan</a></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>58.380234,37.950153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Vietnam</name>
+    <description><![CDATA[<div><a href="http://ukinvietnam.fco.gov.uk/en/about-us/working-with-vietnam/human-rights-in-vietnam/" target="_blank">Human rights in Vietnam</a></div>
+<div>&nbsp;</div>
+<div>Human rights <a href="http://ukinvietnam.fco.gov.uk/en/about-us/working-with-vietnam/human-rights-in-vietnam/0921-human-rights-project-activities/" target="_blank">project</a> work in Vietnam</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/vietnam/" target="_blank">Human Rights and Democracy Report: countries of concern - Vietnam<br></a></div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>105.857521,21.022856,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Hungary</name>
+    <description><![CDATA[<div><a href="http://ukinhungary.fco.gov.uk/en/about-us/working-with-hungary/human-rights-in-hungary/" target="_blank">Human rights in Hungary</a><br><a href="http://ukinhungary.fco.gov.uk/en/about-us/working-with-hungary/human-rights-in-hungary/human-rights-movie-day/" target="_blank">Human Rights Movie Day</a></div>
+<a href="http://www.flickr.com/photos/ukinhungary/sets/72157629632951176/" target="_blank">Flickr - Human Rights Movie Day 2012</a>
+<div><a href="http://ukinhungary.fco.gov.uk/en/news/?view=News&amp;id=22469831" target="_blank">Supporting</a> the Budapest Pride Festival</div>
+<div>Read the <a href="http://blogs.fco.gov.uk/roller/dorey/entry/human_rights_no_laughing_matter?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BloggerGregDorey+%28FCOBloggerGreg+Dorey%29#" target="_blank">Ambassador's blog</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>19.051237,47.497372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Belarus</name>
+    <description><![CDATA[<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=572810582" target="_blank">Minister for Europe "dismayed" by sentencing of opposition activists</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinbelarus.fco.gov.uk/en/about-us/working-with-belarus/human-rights/" target="_blank">Human Rights in Belarus</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinbelarus.fco.gov.uk/en/news/?view=News&amp;id=23009229" target="_blank"><font color="#0066cc">Campaign against the death penalty in Belarus</font></a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/belarus/" target="_blank">Human Rights and Democracy Report: countries of concern -&nbsp;Belarus</a><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>27.562637,53.900291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Bulgaria</name>
+    <description><![CDATA[<div><a href="http://ukinbulgaria.fco.gov.uk/en/about-us/working-with-bulgaria/human-rights-bulgaria/" target="_blank">Human rights in Bulgaria</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>23.327600,42.696899,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Serbia</name>
+    <description><![CDATA[<div><a href="http://ukinserbia.fco.gov.uk/en/about-us/working-with-serbia/human-rights/" target="_blank">Human rights in Serbia</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>20.459896,44.803318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Guatemala, Honduras and El Salvador</name>
+    <description><![CDATA[<div><a href="http://ukinguatemala.fco.gov.uk/en/about-us/working-with-guatemala/human-rights-work/" target="_blank">Human rights in&nbsp;Guatemala, Honduras and El Salvador</a></div>
+<div>&nbsp;</div>
+<div>Read the <a href="http://blogs.fco.gov.uk/roller/chappell/" target="_blank">Ambassador's blog</a><br><br><a href="http://blogs.fco.gov.uk/roller/chappell/entry/udefegua_visit" target="_blank">Human Rights Day in Guatemala</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a>&nbsp;</div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-90.508980,14.631507,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Ecuador</name>
+    <description><![CDATA[<div><a href="http://ukinecuador.fco.gov.uk/en/about-us/working-with-ecuador/human-rights/" target="_blank">Human rights in Ecuador</a></div>
+<div>&nbsp;</div>
+<div>Commemorating <a href="http://ukinecuador.fco.gov.uk/en/about-us/working-with-ecuador/human-rights/human-rights" target="_blank">International Human Rights Day - 10 December 2010</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-78.478836,-0.177626,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Peru</name>
+    <description><![CDATA[<div><a href="http://ukinperu.fco.gov.uk/en/about-us/working-with-peru/030-hhrr-gg-sd/" target="_blank">Human rights in Peru</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-77.029671,-12.130850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Kazakhstan</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinkz.fco.gov.uk/en/news/?view=News&amp;id=562531182" style="font-size:10pt" target="_blank">International Women's Day 2011 - Ambassador's interview</a></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><a href="http://ukinkz.fco.gov.uk/en/about-us/working-with-kazakhastan/human-rights-Kazakhstan-Kyrgyzstan/" target="_blank">Human rights in Kazakhstan &amp; Kyrgyzstan</a></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr">Embassy <a href="http://ukinkz.fco.gov.uk/en/about-us/working-with-kazakhastan/human-rights-Kazakhstan-Kyrgyzstan/human-rights" target="_blank">projects</a> Kazakhstan</div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>71.429008,51.144516,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Jordan</name>
+    <description><![CDATA[<div><a href="http://ukinjordan.fco.gov.uk/en/about-us/working-with-jordan/HR_Jordan/" target="_blank">Human rights in Jordan</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinjordan.fco.gov.uk/en/about-us/working-with-jordan/HR_Jordan/10HR_PWD" target="_blank">Rights of people with disabilities</a><br><br>Ambassador James Watt blogs: <a href="http://blogs.fco.gov.uk/roller/watt/entry/human_rights_on_film" target="_blank">Human Rights on film</a><br>&nbsp;</div>
+<div>&nbsp;<a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>
+<div>Read the <a href="http://blogs.fco.gov.uk/roller/watt/" target="_blank">Ambassador's blog</a></div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>35.859375,27.371767,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Lebanon</name>
+    <description><![CDATA[<div><a href="http://ukinlebanon.fco.gov.uk/en/about-us/working-with-lebanon2/human-rights/" target="_blank">Human rights in Lebanon</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinlebanon.fco.gov.uk/en/about-us/working-with-lebanon2/woman-day/" target="_blank">International Women's Day 2011</a></div>
+<div>&nbsp;</div>
+<div>Watch <a href="http://ukinlebanon.fco.gov.uk/en/about-us/working-with-lebanon2/human-rights/" target="_blank">videos</a> from two human rights activists, marking International Human Rights Day<br><br>Ambassador Frances Guy blogs: <a href="http://blogs.fco.gov.uk/roller/guy/entry/nationality_an_issue_of_human" target="_blank">Nationality: an issue of human rights</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>35.500496,33.895477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in UAE</name>
+    <description><![CDATA[<div><a href="http://ukinuae.fco.gov.uk/en/about-us/working-with-uae/Human-Rights/" target="_blank">Human Rights in the UAE</a></div>
+<div>&nbsp;</div>
+<div>Read more about the <a href="http://ukinuae.fco.gov.uk/en/about-us/working-with-uae/Human-Rights/human-rights-in-uae/" target="_blank">protection of human rights</a> in the UAE</div>
+<div>&nbsp;</div>
+<div>UK embassy in <a href="http://ukinuae.fco.gov.uk/en/about-us/our-embassy/our-embassy-abu-dhabi/" target="_blank">Abu Dhabi</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>54.316406,22.917923,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in UAE</name>
+    <description><![CDATA[<div><a href="http://ukinuae.fco.gov.uk/en/about-us/working-with-uae/Human-Rights/" target="_blank">Human rights in the UAE</a></div>
+<div>&nbsp;</div>
+<div>Read more about the <a href="http://ukinuae.fco.gov.uk/en/about-us/working-with-uae/Human-Rights/human-rights-in-uae/" target="_blank">protection of human rights</a> in the UAE</div>
+<div>&nbsp;</div>
+<div>UK embassy in <a href="http://ukinuae.fco.gov.uk/en/about-us/our-embassy/our-embassy-dubai/" target="_blank">Dubai</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>54.316406,20.797201,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Israel</name>
+    <description><![CDATA[<div><a href="http://ukinisrael.fco.gov.uk/en/about-us/working-with-israel/human-rights-israel/" target="_blank">Human rights in Israel</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/israel-and-the-opts/" target="_blank">Human Rights and Democracy Report: countries of concern - Israel<br></a></div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>34.771191,32.087902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Nepal</name>
+    <description><![CDATA[<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=539442782" target="_blank">Voices of Nepal - watch our human rights documentary </a><br><br><a href="http://ukinnepal.fco.gov.uk/en/about-us/working-with-nepal/human-rights-nepal/" target="_blank">Human rights in Nepal</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinnepal.fco.gov.uk/en/about-us/working-with-nepal/human-rights-nepal/hr-day-2010/" target="_blank">Marking International Human Rights Day 2010</a></div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>85.316841,27.720726,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Mexico</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinmexico.fco.gov.uk/en/about-us/working-with-mexico/strategic-programme-fund/programmes-mexico/human-rights" target="_blank">Human rights in Mexico</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-99.165703,19.430132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Bolivia</name>
+    <description><![CDATA[<div><a href="http://ukinbolivia.fco.gov.uk/en/about-us/working-with-bolivia/human-rights/" target="_blank">Human rights in Bolivia - English</a><br><a href="http://ukinbolivia.fco.gov.uk/es/working-with-bolivia/human-rights/" target="_blank">Human rights in Bolivia - Spanish</a><br>Guest blog from <em><i><font face="Arial"><span style="font-family:Arial;font-style:normal">OHCHR representative<span style="font-style:italic"> </span>Denis Racicot</span></font></i></em>: <a href="http://ukinbolivia.fco.gov.uk/en/" target="_blank">Racism and Discrimination </a><br><a href="http://ukinbolivia.fco.gov.uk/es/news/?view=News&amp;id=383644682" target="_blank">EU sponsored event on Women’s Human Rights</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a></div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-68.148193,-16.499298,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Holy See</name>
+    <description><![CDATA[<a href="http://ukinholysee.fco.gov.uk/en/working-with-holy-see/human-rights/" target="_blank">Human rights in the Holy See</a><br>
+<div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>12.481842,41.906364,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Kuwait</name>
+    <description><![CDATA[<div><a href="http://ukinkuwait.fco.gov.uk/en/about-us/working-with-kuwait/human-rights/" target="_blank">Human Rights in Kuwait</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinkuwait.fco.gov.uk/en/about-us/working-with-kuwait/emb-activities/iwd/" target="_blank">International Women's Day 2011<br></a></div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>48.251953,29.458731,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Yemen</name>
+    <description><![CDATA[<div><a href="http://ukinyemen.fco.gov.uk/en/about-us/working-with-yemen/human-rights/" target="_blank">Human Rights in Yemen</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/yemen/" target="_blank">Human Rights and Democracy Report: countries of concern - Yemen<br></a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>44.208984,15.347762,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Slovakia</name>
+    <description><![CDATA[<div><a href="http://ukinslovakia.fco.gov.uk/en/about-us/working-with-slovakia/human-rights-in-sk/" target="_blank">Human rights in Slovakia</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a></div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>17.107000,48.142208,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in British Virgin Islands</name>
+    <description><![CDATA[<a href="http://ukinbvi.fco.gov.uk/en/about-us/uk-in-bvi/human-rights-in-bvi/" target="_blank">Human rights in British Virgin Islands</a><br>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-64.617119,18.427502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Botswana</name>
+    <description><![CDATA[<div><a href="http://blogs.fco.gov.uk/roller/anderson/entry/2010_international_human_rights_day" target="_blank">High Commissioner Jennifer Anderson blogs on International Human Rights Day in Botswana</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>25.913445,-24.658524,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Philippines</name>
+    <description><![CDATA[<div><a href="http://ukinthephilippines.fco.gov.uk/en/about-us/working-with-philippines/human-rights-and-democracy/" target="_blank">Human rights in the Philippines</a><br><br>British Embassy Manila’s human rights officer Oya Arriola guest blogs for International Human Rights Day: H<a href="http://blogs.fco.gov.uk/roller/lillie/entry/human_rights_in_the_philippines" target="_blank">uman rights in the Philippines: a personal perspective</a></div><div><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>121.053886,14.539554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Sweden</name>
+    <description><![CDATA[<div>Ambassador Andrew Mitchel blogs: <a href="http://blogs.fco.gov.uk/roller/mitchell/entry/happy_human_rights_day" target="_blank">Happy Human Rights Day</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment<br></a></div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>15.117188,62.593342,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Ghana</name>
+    <description><![CDATA[<div><a href="http://ukinghana.fco.gov.uk/en/about-us/working-with-ghana/human-rights-ghana/" target="_blank">Human rights in Ghana</a></div><div><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-0.179429,5.562597,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Germany</name>
+    <description><![CDATA[<div><a href="http://ukingermany.fco.gov.uk/en/about-us/working-with-germany/human-rights/" target="_blank">Human rights in Germany</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukingermany.fco.gov.uk/en/news/?view=News&amp;id=563537282" target="_blank">British Embassy hosts screening of This Prison Where I Live</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>13.381004,52.515697,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Latvia</name>
+    <description><![CDATA[<div><a href="http://ukinlatvia.fco.gov.uk/en/about-us/working-with-latvia/human-rights/" target="_blank">Human rights in Latvia</a><br><a href="http://ukinlatvia.fco.gov.uk/en/about-us/working-with-latvia/human-rights/unity-kilometre-2010/" target="_blank">Unity kilometre 2010</a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>24.110743,56.956699,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Portugal</name>
+    <description><![CDATA[<div><a href="http://ukinportugal.fco.gov.uk/en/about-us/working-with-portugal/humanrightsinportugal/" target="_blank">Human rights in Portugal</a><br>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-9.157276,38.715855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Slovenia</name>
+    <description><![CDATA[<div><a href="http://ukinslovenia.fco.gov.uk/en/about-us/working-with-slovenia/human-rights-slovenia/" target="_blank">Human rights in Slovenia</a></div><div>&nbsp;</div><div><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>14.498863,46.042439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Spain</name>
+    <description><![CDATA[<div><a href="http://ukinspain.fco.gov.uk/en/about-us/global-issues/human-rights/" target="_blank">Human rights in Spain</a></div><div>&nbsp;</div><div><br><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-3.685827,40.480316,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Mozambique</name>
+    <description><![CDATA[<p><a href="http://ukinmozambique.fco.gov.uk/en/about-us/working-with-mozambique/human-rights-moz/" target="_blank">Human rights in Mozambique</a></p>
+<div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>32.576996,-25.971203,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Cameroon</name>
+    <description><![CDATA[<div>Bharat Joshi, High Commissioner to Yaounde, <a href="http://ht.ly/3IVMN" target="_blank">blogs on the EU, Cameroon and HumanRights</a><br><a href="http://ukincameroon.fco.gov.uk/en/about-us/working-with-cameroon/uk-activities-projects/challenge-fund/" target="_blank">The Challenge Fund </a>aims to support innovative, small-scale high-impact 
+projects from the grassroots under the themes of democracy, human rights
+ and climate change.</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>11.512299,3.865625,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Armenia</name>
+    <description><![CDATA[<div><a href="http://ukinarmenia.fco.gov.uk/en/about-us/working-with-armenia/human-right/" target="_blank">Human Rights in Armenia</a></div>
+<div>&nbsp;</div>
+<div><a href="http://blogs.fco.gov.uk/roller/lonsdale/entry/what_is_the_true_meaning" target="_blank">International Women's Day - Ambassador's blog</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;<a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>44.780273,40.680637,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Fiji</name>
+    <description><![CDATA[<div><a href="http://ukinfiji.fco.gov.uk/en/about-us/working-with-fiji/projects/green-girls" target="_blank">International Women's Day activities</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>178.439941,-18.104088,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Indonesia</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinindonesia.fco.gov.uk/en/news/?view=News&amp;id=561757082" target="_blank">British Embassy supports International Women's Day</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>106.875000,-6.315299,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Bangladesh</name>
+    <description><![CDATA[<div><a href="http://ukinbangladesh.fco.gov.uk/en/about-us/working-with-bangladesh/human-rights/interview-women&#39;s-day" target="_blank">International Women's Day - interview with two leading Bangladeshi women</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinbangladesh.fco.gov.uk/en/about-us/working-with-bangladesh/dfid-new/gender/ucep-khulna" target="_blank">Women's rights: Skills, respect and a right to dream </a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinbangladesh.fco.gov.uk/en/about-us/working-with-bangladesh/human-rights/women&#39;s-rights" target="_blank">Strengthening Good Governance, Protecting Women's Rights</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>90.307617,23.563988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Anguilla</name>
+    <description><![CDATA[<div><a href="http://anguilla.fco.gov.uk/en/news/?view=PressS&amp;id=561670482" target="_blank">International Women's Day</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-63.083496,18.062311,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Kenya</name>
+    <description><![CDATA[<div><a href="http://blogs.fco.gov.uk/roller/macaire/entry/international_women_s_day_in?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BloggerRobMacaire+%28FCO+Bloggers%3A+Rob+Macaire%29" target="_blank">International Women's Day - High Commissioner's blog</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>36.870117,-1.362176,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Georgia</name>
+    <description><![CDATA[<div><a href="http://www.facebook.com/notes/british-embassy-tbilisi/happy-womens-day-%E1%83%92%E1%83%98%E1%83%9A%E1%83%9D%E1%83%AA%E1%83%90%E1%83%95%E1%83%97-8-%E1%83%9B%E1%83%90%E1%83%A0%E1%83%A2%E1%83%A1-/116332775109041" target="_blank">International Women's Day - Ambassador's message</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>44.780273,41.705730,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Morocco</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinmorocco.fco.gov.uk/en/about-us/working-with-morocco/projects/Project-news/" target="_blank">Read more about the Embassy's support for human rights projects</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-6.833496,33.943359,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Algeria</name>
+    <description><![CDATA[<div><a href="http://ukinalgeria.fco.gov.uk/en/news/?view=News&amp;id=562799782" target="_blank">International Women's Day - Ambassador Martyn Roper hosted a lunch with prominent Algerian women</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>3.076172,36.721275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Tanzania</name>
+    <description><![CDATA[<div><a href="http://ukintanzania.fco.gov.uk/en/about-us/working-with-tanzania/women" target="_blank">Speech by High Commissioner Diane Corner to mark International Women's Day</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>39.287109,-7.057282,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Zambia</name>
+    <description><![CDATA[<div><a href="http://blogs.fco.gov.uk/roller/tomcarter/entry/international_women_s_day#" target="_blank">International Women's Day - read the High Commissioner's blog</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>28.256836,-15.453680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Angola</name>
+    <description><![CDATA[<div><a href="http://ukinangola.fco.gov.uk/en/about-us/working-with-angola/human-rights/" target="_blank">Human rights in Angola</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>13.227539,-8.928487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Malawi</name>
+    <description><![CDATA[<div><a href="http://ukinmalawi.fco.gov.uk/en/news/?view=PressR&amp;id=565672482" target="_blank">British High Commission marks International Women's Day</a> </div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>33.793945,-13.966054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Zimbabwe</name>
+    <description><![CDATA[<div>A turning point for Africa? <a href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;id=572761482" target="_blank">Foreign Secretary speaks</a> at The Times CEO Summit Africa</div>
+<div><a href="http://ukinzimbabwe.fco.gov.uk/en/about-us/working-with-zimbabwe1/human-rights/" target="_blank">Human rights in Zimbabwe</a></div>
+<div><a href="http://ukinzimbabwe.fco.gov.uk/en/about-us/working-with-zimbabwe1/human-rights/disappointing-start-2011" target="_blank">Disappointing start to 2011</a></div>
+<div><a href="http://ukinzimbabwe.fco.gov.uk/en/about-us/working-with-zimbabwe1/human-rights/womens-day-celebration" target="_blank">International Women's Day celebrations</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/zimbabwe/" target="_blank">Human Rights and Democracy Report: countries of concern - Zimbabwe</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>31.069336,-17.853291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Cambodia</name>
+    <description><![CDATA[<div><a href="http://ukincambodia.fco.gov.uk/en/about-us/working-with-cambodia/human-rights-in-cambodia/" target="_blank">Human rights in Cambodia</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>103.007812,7.362467,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Taiwan</name>
+    <description><![CDATA[<div><a href="http://ukintaiwan.fco.gov.uk/en/news/?view=News&amp;id=561398482" target="_blank">EU statement on the executions in Taiwan</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>121.508789,25.085600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Papua New Guinea</name>
+    <description><![CDATA[<div><a href="http://ukinpng.fco.gov.uk/en/news/?view=News&amp;id=561780282" target="_blank">High Commissioner launches PNG Women's Advisory Centre</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>147.128906,-9.492408,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Brazil</name>
+    <description><![CDATA[<div><a href="http://ukinbrazil.fco.gov.uk/en/about-us/working-with-brazil/human-rights/" target="_blank">Human rights in Brazil</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-48.032227,-15.876809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Tajikistan</name>
+    <description><![CDATA[<div><a href="http://ukintajikistan.fco.gov.uk/en/about-us/working-with-tajikistan/Human-rights/" target="_blank">Human rights week in Tajikistan</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>68.752441,38.548164,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Senegal</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinsenegal.fco.gov.uk/en/about-us/working-with-senegal/lhuman-rights-senegal/" target="_blank">Human rights in Senegal</a></div><div dir="ltr">&nbsp;</div><div dir="ltr">Human <a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-17.314453,14.732386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Tunisia</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukintunisia.fco.gov.uk/en/news/?view=PressR&amp;id=562242982" target="_blank">British Embassy funding a group of experts to advise on elections and democratic transition</a></div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div><div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>10.085449,36.756489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Sierra Leone</name>
+    <description><![CDATA[<div><a href="http://ukinsierraleone.fco.gov.uk/en/about-us/working-with-sierra-leone-1/EU_HR_strategy_event" target="_blank">Launch of EU Human Rights strategy for Sierra Leone</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-13.227539,8.450639,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Azerbaijan</name>
+    <description><![CDATA[<div><a href="http://ukinazerbaijan.fco.gov.uk/en/about-us/working-with-azerbaijan1/070-human-rights/" target="_blank">Human rights in Azerbaijan</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>49.877930,40.396763,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Estonia</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinestonia.fco.gov.uk/en/about-us/working-with-estonia/human-rights-in-estonia/" target="_blank">British Embassy-funded human rights projects</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>24.741211,59.422729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Czech Republic</name>
+    <description><![CDATA[<div><a href="http://ukinczechrepublic.fco.gov.uk/en/about-us/working-with-czech-republic/human-rights/" target="_blank">Human rights in the Czech Republic</a></div>
+<div>&nbsp;</div>
+<div><a href="http://ukinczechrepublic.fco.gov.uk/en/news/?view=News&amp;id=560176982" target="_blank">Minister for Europe discusses Roma issues with British Embassy interns</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>14.370117,50.106487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Macedonia</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://ukinmacedonia.fco.gov.uk/en/about-us/working-with-macedonia/human-rights/" target="_blank">Human rights in Macedonia</a></div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>21.445312,42.008488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Greece</name>
+    <description><![CDATA[<div><a href="http://ukingreece.fco.gov.uk/en/about-us/working-with-greece/jointevents/egov/" target="_blank">International conference on "e-Government: Better Services? Better Democracy?"</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>23.686523,37.996162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in France</name>
+    <description><![CDATA[<A href="http://ukinfrance.fco.gov.uk/en/about-us/our-embassy/our-ambassador/women-commonwealth-day" target="_blank">British Embassy celebrates International Women's Day</A>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>2.373047,48.806862,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Egypt</name>
+    <description><![CDATA[<div><a href="http://ukinegypt.fco.gov.uk/en/news/?view=News&amp;id=569606182" target="_blank">Minister Burt's statement on Egypt's referendum</a></div>
+<div>&nbsp;</div>
+<div><a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=570697782" target="_blank">UK welcomes EU decision to freeze assets of members of former Egyptian regime</a></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>31.245117,30.040565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Cayman Islands</name>
+    <description><![CDATA[<div><a href="http://ukincayman.fco.gov.uk/en/about-us/the-uk-in-cayman/good-governance" target="_blank">Good governance</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-81.368866,19.298183,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Dominican Republic</name>
+    <description><![CDATA[<div><a href="http://ukindominicanrepublic.fco.gov.uk/en/about-us/working-with-dominican-republic/hhrr-gg-sd/" target="_blank">Human rights, good governance and sustainable development</a></div>
+<div>&nbsp;</div>
+<div>Read more about British Embassy-funded projects: <a href="http://ukindominicanrepublic.fco.gov.uk/en/about-us/working-with-dominican-republic/bilateral-projects/prison-reform-project" target="_blank">Dominican Republic &amp; Haiti Prison Reform project</a>&nbsp;and <a href="http://ukindominicanrepublic.fco.gov.uk/en/about-us/working-with-dominican-republic/bilateral-projects/child-protection/" target="_blank">Child Protection project</a></div><div>&nbsp;</div><div><a target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-69.895020,18.437925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Montserrat</name>
+    <description><![CDATA[<div><a href="http://ukinmontserrat.fco.gov.uk/en/about-us/uk-in-montserrat/good-governance/" target="_blank">Good governance</a></div><div>&nbsp;</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-62.219696,16.710522,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Libya</name>
+    <description><![CDATA[<div>London Conference on Libya - <a href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;id=575076582" target="_blank">full coverage</a></div>
+<div>&nbsp;</div>
+<div>Libya - why is the <a href="http://ukinlibya.fco.gov.uk/en/about-us/working-with-libya/libya1/" target="_blank">UK involved?</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/libya/" target="_blank">Human Rights and Democracy Report: countries of concern - Libya<br></a></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>13.139648,32.842674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in North Korea</name>
+    <description><![CDATA[<div><a href="http://blogs.fco.gov.uk/roller/uden/" target="_blank">Read about Ambassador to the Republic of Korea&nbsp;Martin Uden's visit to Pyongyang</a></div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/dprk/" target="_blank">Human Rights and Democracy Report: countries of concern - Democratic People’s Republic of Korea</a></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>125.903320,38.959408,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in the Democratic Republic of Congo</name>
+    <description><![CDATA[<div><a href="http://ukindrc.fco.gov.uk/en/about-us/working-with-congo/human-rights/" target="_blank">Human rights in DRC</a></div>
+<div><a href="http://ukindrc.fco.gov.uk/resources/en/18379295/hr-action-plan" target="_blank">UK National Action Plan on Women, Peace &amp; Security</a></div>
+<div>A turning point for Africa? - <a href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;id=570682182" target="_blank">Foreign Secretary's speech</a> at The Times CEO Summit Africa</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/democratic-republic-of-congo/" target="_blank">Human Rights and Democracy Report: countries of concern - DRC</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>15.336914,-4.390229,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Eritrea</name>
+    <description><![CDATA[<div>A turning point for Africa? <a href="http://ukineritrea.fco.gov.uk/en/news/?view=Speech&amp;id=571047482" target="_blank">Foreign Secretary speaks</a> at The Times CEO Summit Africa</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/eritrea/" target="_blank">Human Rights and Democracy Report: countries of concern - Eritrea<br></a></div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>38.921814,15.329221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Somalia</name>
+    <description><![CDATA[<div>A turning point for Africa? <a href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;id=572761482" target="_blank">Foreign Secretary speaks</a> at The Times CEO Summit Africa</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/somalia/" target="_blank">Human Rights and Democracy Report: countries of concern - Somalia</a></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>45.351562,2.021065,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in South Africa</name>
+    <description><![CDATA[<div>A turning point for Africa? <a href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;id=572761482" target="_blank">Foreign Secretary speaks</a> at The Times CEO Summit Africa</div><div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div><div>&nbsp;</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>28.168945,-25.760321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chad</name>
+    <description><![CDATA[<a href="http://fcohrdreport.readandcomment.com/human-rights-in-countries-of-concern/chad/" target="_blank">Human Rights and Democracy Report: countries of concern - Chad</a>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>19.335938,13.068777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Norway</name>
+    <description><![CDATA[<a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>8.437500,60.326946,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UK in Italy</name>
+    <description><![CDATA[<a href="http://ukinitaly.fco.gov.uk/en/about-us/working-with-italy/human-rights/" target="_blank">Human rights in Italy</a><br>
+<a href="http://ukinitaly.fco.gov.uk/en/news/?view=News&amp;id=744521782" target="_blank">The timescale of judicial trials: effects on human rights and economy</a><br>
+<div>&nbsp;</div><div><a href="http://fcohrdreport.readandcomment.com/introduction-2/" target="_blank">Human Rights and Democracy Report: read and comment</a></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>12.573853,41.861378,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

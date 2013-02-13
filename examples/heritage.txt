@@ -1,0 +1,4 @@
+title: World Heritage Sites in the UK
+url: http://www.culture.gov.uk/what_we_do/historic_environment/7373.aspx
+url-google: https://maps.google.com/maps/ms?ie=UTF&msa=0&msid=211865854724226671378.0004d59cbff06664d1490
+kml: https://maps.google.com/maps/ms?ie=UTF8&authuser=0&msa=0&output=kml&msid=211865854724226671378.0004d59cbff06664d1490

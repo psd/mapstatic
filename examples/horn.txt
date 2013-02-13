@@ -1,0 +1,3 @@
+title: Horn of Aftica crisis
+url: https://maps.google.co.uk/maps/ms?msa=0&ie=UTF8&msid=204140118657091876715.0004a8970865fa535571d&ll=6.271618,42.583008&spn=17.406407,20.610352&z=5&source=embed
+kml: https://maps.google.co.uk/maps/ms?ie=UTF8&source=embed&authuser=0&msa=0&output=kml&msid=204140118657091876715.0004a8970865fa535571d
